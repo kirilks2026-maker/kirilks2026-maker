@@ -20,9 +20,11 @@ Smart contract developer and Web3 stress-testing research engineer. Focused on D
 
 ## 🛠️ Advanced Stress-Testing Frameworks
 
-* ⚡ **[litvm-orbital-stress-profiler](https://github.com/kirilks2026-maker/litvm-orbital-stress-profiler)** — High-concurrency throughput testing and latency profiling framework optimized for **Lit VM** nodes.
-* 🛰️ **[omcp-da-stress-framework](https://github.com/kirilks2026-maker/omcp-da-stress-framework)** & **[omcp-da-stress-framework-Phase-2](https://github.com/kirilks2026-maker/omcp-da-stress-framework-Phase-2)** — Multi-phase stress framework simulating real-world node congestion and telemetry metrics under burst loads across alternative Data Availability layers.
+* ⚡ **Lit Protocol Environment:**
+  * **[litvm-orbital-stress-profiler](https://github.com/kirilks2026-maker/litvm-orbital-stress-profiler)** — High-concurrency throughput testing and latency profiling framework optimized for **Lit VM** nodes.
 
+* 🛰️ **Cross-DA & Early Benchmarks:**
+  * **[omcp-da-stress-framework](https://github.com/kirilks2026-maker/omcp-da-stress-framework)** & **[omcp-da-stress-framework-Phase-2](https://github.com/kirilks2026-maker/omcp-da-stress-framework-Phase-2)** — Multi-phase stress frameworks (Phase 1 & Phase 2) simulating real-world node congestion, latency, and telemetry metrics under burst loads across alternative Data Availability layers.
 ---
 
 ## 📜 Smart Contracts & Web3 Protocols
