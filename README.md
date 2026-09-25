@@ -31,7 +31,7 @@ Smart contract developer and Web3 stress-testing research engineer. Focused on D
 
 * 🌉 **[oimpact-erc8004-bridge](https://github.com/kirilks2026-maker/oimpact-erc8004-bridge)** — On-chain / off-chain bridge implementation leveraging AI-agent execution standards (ERC-8004) and cross-chain message passing. Features the custom `GroundRadarStressTester.sol` telemetry engine.
 * 🚀 **[want-to-mars](https://github.com/kirilks2026-maker/want-to-mars)** — Core smart contracts, business logic, and infrastructure deployment files for the "Want to Mars" decentralized system.
-* ⚙️ **[web3-smart-contracts](https://github.com/kirilks2026-maker/web3-smart-contracts)** & **[my-smart-contracts](https://github.com/kirilks2026-maker/my-smart-contracts)** — Specialized Solidity development workspace featuring "Gold of Germany" & "Manhattan" logistics and yield distribution models for Simple Chain.
+* ⚙️ **[web3-smart-contracts](https://github.com/kirilks2026-maker/web3-smart-contracts)** — Specialized Solidity development workspace featuring "Gold of Germany" & "Manhattan" logistics and yield distribution models for Simple Chain.
 
 ---
 
