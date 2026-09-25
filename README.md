@@ -8,7 +8,7 @@ Smart contract developer and Web3 stress-testing research engineer. Focused on D
 *All architecture was deployed, evaluated, and validated within the official **0G Galileo Testnet** environment.*
 
 ### 🧪 [0g-da-phase3-kessler-benchmark](https://github.com) — Fixed-Mass Saturation Marathon
-*   **Approach:** Flooded the 0G DA storage layer using a fixed chunk size of **350 MB** per node insertion, bypassing EVM execution gas (`--skip-tx`). Load scaling was driven progressively via cumulative epoch multipliers (`epoch * 10`).
+*   **Approach:** Flooded the 0G DA storage layer using a fixed chunk size of **350 MB** per node insertion, bypassing EVM execution gas   (`--skip-tx`). Load scaling was driven progressively via cumulative epoch multipliers (`epoch * 10`).
 *   **Circuit Breaker Integration:** Implemented a programmatic stop-loss mechanism. When network node discovery/ingestion queue degradation triggered a **Drop Rate > 30%**, the script executed an emergency exit to prevent unmonitored validator socket starvation.
 
 ### 📈 [0g-da-phase4-adaptive-profiler](https://github.com) — Dynamic Load Profiler
